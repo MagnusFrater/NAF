@@ -1,0 +1,20 @@
+## Inspiration
+I love outer space. Therefore I love NASA. NASA has over 9000 APIs. Number of NASA APIs I've used before: 0. Time to get started.
+
+## What it does
+It pulls data from two NASA Open APIs: Astronomy Picture of the Day (APOD) and Mars Trek: WMTS Layer Services. It then displays the data out to the user from my website. The APOD API shows amazing photos of the cosmos (or right back here on Earth!). The Mars Trek: WMTS Layer Services let me display maps composed of many, many different tiles. These maps range from large craters where NASA's own Mars rovers have landed, to literally the entire landscape of Mars. The zoom functions themselves are incredible (all thanks to esri).
+
+## How I built it
+I originally started building it with only HTML and CSS, but quickly realized that the only way I could make my webpage functional was with Javascript. I've never used JS before the weekend (although I'm sure you can tell by the code). Besides learning JS (and eventually JQuery), the biggest/longest part of production was with esri's ArcGIS services. That was how I was able to display Mars with such detail and functionality.
+
+## Challenges I ran into
+I had to learn Javascript. And JQuery. And esri's ArcGIS services. All by myself. In 36 hours. That was enough challenge for me.
+
+## Accomplishments that I'm proud of
+The whole thing. That it's done. But also the fact that I can zoom straight into Mars and scan it's landscape straight from my own personal website.
+
+## What I learned
+If you read any of this story, you get the gist.
+
+## What's next for NASA API Folio (NAF)
+There is over 9000 more things I could do with NAF. All it takes is for me to open back up the NASA Open API portal again....
